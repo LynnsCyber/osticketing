@@ -16,8 +16,23 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Windows 10</b> (21H2)
 
-<h2>Ticket Configuration Stages</h2>
+<h1>Ticket Configuration Stages</h1>
 
+<h2>Log in to osTicket Admin Panel</h2>
+<img width="600" alt="image" src="" />
+<ul>
+  <li>Log in to osTicket Admin Panel</li>
+  <li>Use an admin account to sign in.</li>
+   ----------------------------------------------------------------------------------------
+  </ul>
+
+<h2> Configure Help Topics</h2>
+<img width="600" alt="image" src="" />
+<ul>
+  <li>Go to Admin Panel > Manage > Help Topics.</li>
+  <li>Add or edit topics for categorizing tickets.</li>
+   ----------------------------------------------------------------------------------------
+  </ul>
 
 
 
