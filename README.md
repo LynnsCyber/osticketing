@@ -4,7 +4,7 @@
 </p>
 
 <h1>osTicket - Ticket configuration</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.
+Ticket configuration in osTicket refers to the settings and options that define how tickets are created, managed, and processed within the system. It includes rules for ticket statuses, priorities, types, workflows, auto-assignments, SLAs, and email templates, ensuring efficient ticket lifecycle management
 
 <h2>Environments and Technologies Used</h2>
 
@@ -27,13 +27,22 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   </ul>
 
 <h2> Configure Help Topics</h2>
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/e7c707af-b011-4e4a-9bf2-d19c80783611" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/4adc7b35-c37b-437f-ac00-f207dc554102" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/8613badb-d57a-4afa-a090-aec4db3b322f" />
 <ul>
   <li>Go to Admin Panel > Manage > Help Topics.</li>
   <li>Add or edit topics for categorizing tickets.</li>
    ----------------------------------------------------------------------------------------
   </ul>
 
+<h2>Set Ticket Departments</h2>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/a58e453e-716a-4e56-a477-d105468bccc6" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/ab212599-0f89-4463-9c2a-109c086ef8df" />
+<ul>
+  <li>Navigate to Agents > Departments.</li>
+  <li>Create and configure departments for ticket routing.</li>
+   ----------------------------------------------------------------------------------------
+  </ul>
 
 
 
