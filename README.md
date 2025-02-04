@@ -19,7 +19,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h1>Ticket Configuration Stages</h1>
 
 <h2>Log in to osTicket Admin Panel</h2>
-<img width="600" alt="image" src="" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/bcf481c8-8334-4bd3-a6d9-757f319609ec" />
 <ul>
   <li>Log in to osTicket Admin Panel</li>
   <li>Use an admin account to sign in.</li>
@@ -27,7 +27,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   </ul>
 
 <h2> Configure Help Topics</h2>
-<img width="600" alt="image" src="" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/e7c707af-b011-4e4a-9bf2-d19c80783611" />
 <ul>
   <li>Go to Admin Panel > Manage > Help Topics.</li>
   <li>Add or edit topics for categorizing tickets.</li>
