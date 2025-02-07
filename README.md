@@ -47,7 +47,7 @@ Ticket configuration in osTicket refers to the settings and options that define 
   <h2>Configure Ticket Settings</h2>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/bcf481c8-8334-4bd3-a6d9-757f319609ec" />
 <ul>
-  <li>Go to Admin Panel > Settings > Tickets.</li>
+  <li>Go to Agent Panel > Settings > Tickets.</li>
   <li>Adjust settings like ticket number format, priority levels, and auto-close rules.</li>
    ----------------------------------------------------------------------------------------
   </ul>
